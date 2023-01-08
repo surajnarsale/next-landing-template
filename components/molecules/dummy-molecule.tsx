@@ -1,5 +1,5 @@
-const dummyMolecule = () => {
+const DummyMolecule = () => {
   return <div>dummy-molecule</div>
 }
 
-export default dummyMolecule
+export default DummyMolecule

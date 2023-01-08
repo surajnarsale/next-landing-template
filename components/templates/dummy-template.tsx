@@ -1,5 +1,5 @@
-const dummyTemplate = () => {
+const DummyTemplate = () => {
   return <div>dummy-template</div>
 }
 
-export default dummyTemplate
+export default DummyTemplate

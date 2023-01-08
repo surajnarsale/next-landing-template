@@ -1,5 +1,5 @@
-const dummyAtom = () => {
+const DummyAtom = () => {
   return <div>dummy-atom</div>
 }
 
-export default dummyAtom
+export default DummyAtom
