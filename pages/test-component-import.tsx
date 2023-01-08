@@ -1,4 +1,4 @@
-import DummyAtom from '../components/atoms/dummy-atom'
+import DummyAtom from '@/components/atoms/dummy-atom'
 
 const TestComponentInput = () => {
   return (
