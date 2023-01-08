@@ -23,7 +23,8 @@
       "@/data/*": ["data/*"],
       "@/types/*": ["types/*"],
       "@/constants/*": ["lib/constants/*"],
-      "@/hooks/*": ["lib/hooks/*"]
+      "@/hooks/*": ["lib/hooks/*"],
+      "@/lib/*": ["lib/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
